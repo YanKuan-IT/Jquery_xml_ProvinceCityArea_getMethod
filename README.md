@@ -1,0 +1,2 @@
+# Jquery_xml_ProvinceCityArea_getMethod
+使用jQuery解析xml文档，获取省市县等数据，通过get方法显示到jsp页面中
